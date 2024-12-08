@@ -81,7 +81,7 @@ A sophisticated implementation of the classic Snake game using C# and .NET Frame
 
 ```
 
-## 🤝 Contribution
+### 🤝 Contribution
 Contributions, issues, and feature requests are welcome!
 
 
