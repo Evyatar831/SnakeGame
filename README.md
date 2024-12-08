@@ -81,11 +81,9 @@ A sophisticated implementation of the classic Snake game using C# and .NET Frame
 ```
 
 ## 🤝 Contribution
-
 Contributions, issues, and feature requests are welcome!
 
 
 
 
-![צילום מסך 2023-09-03 174234](https://github.com/user-attachments/assets/f2bb950f-c023-4ae2-90bf-77cf2b8bb990)
 
