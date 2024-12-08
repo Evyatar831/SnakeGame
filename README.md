@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A sophisticated implementation of the classic Snake game using C# and .NET Framework, featuring advanced object-oriented programming techniques and enhanced gameplay mechanics.
+A sophisticated implementation of the classic Snake game using C# and .NET Framework, featuring advanced object-oriented programming techniques and enhanced gameplay mechanics, including support for two-player mode..
 ![image](https://github.com/user-attachments/assets/d6b61c05-c763-454b-8e15-000a6e192652)
 
 ## 🎮 Game Features
@@ -18,6 +18,11 @@ A sophisticated implementation of the classic Snake game using C# and .NET Frame
 - Object-oriented design principles
 - Serialization for game state management
 
+### Two-Player Mode
+- Allowing two players to compete against each other
+- Separate scoring and controls for each player
+- Strategic gameplay with shared game space
+  
 ## 🛠 Technical Details
 
 ### Programming Techniques
