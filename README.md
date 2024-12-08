@@ -79,7 +79,7 @@ A sophisticated implementation of the classic Snake game using C# and .NET Frame
 3. Build the project
 4. Run the application
 
-```
+
 
 ### 🤝 Contribution
 Contributions, issues, and feature requests are welcome!
