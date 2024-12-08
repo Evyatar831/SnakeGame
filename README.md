@@ -3,6 +3,7 @@
 ## Project Overview
 
 A sophisticated implementation of the classic Snake game using C# and .NET Framework, featuring advanced object-oriented programming techniques and enhanced gameplay mechanics.
+![image](https://github.com/user-attachments/assets/d6b61c05-c763-454b-8e15-000a6e192652)
 
 ## 🎮 Game Features
 
